@@ -1,5 +1,5 @@
 # Diccionarios-HashTable-AVL-
-Estructura de datos para gestionar eficientemente diccionarioscccccccccccccccccccccccccccccc
+Estructura de datos para gestionar eficientemente diccionarios
 Integrantes:
 1 Tamy Kristel Flores Guevara
 2 Félix Alberto Martinez Olivos
